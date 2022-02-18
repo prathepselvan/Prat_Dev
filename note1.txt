@@ -1,0 +1,4 @@
+git init => to initialize git in local repo (to track)
+git add (file_name)/ . /* .,* to select all the files,this will change the files in local repo to trackable
+git commit -m(m stands for message) => this will inform about why we commit/add file
+git push => to push from local to remote
